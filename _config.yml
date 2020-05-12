@@ -17,7 +17,7 @@ defaults:
       layout: "post"
 
 projects:
-  sort_by: pushed
+  sort_by: stars
   # sort_by options:
   #   - pushed
   #   - stars
@@ -45,15 +45,17 @@ social_media:
   # vk: your_username
   # website: http://your_website_url
   # youtube: your_username
+  github_sponsors: raisty
+  bitcoin: 37iSWX4QdoayZXmuj13AExuhzSkfd7LuG6
+  litecoin: M8bEQNPkZ66hoFGYJuMVntyjj9dmYo1wBf
+  ethereum: 0x10c993039CC831A1fe8230ddd82A0A13625Dd43E
+  # core: your_core_address
+  # pay: your_payto_link
 
 topics:
   - name: Cryptography
     web_url: https://github.com/topics/cryptography
     image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/collections/text-editors/text-editors.png
-
-  - name: Rust
-    web_url: https://github.com/topics/rust
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/rust/rust.png
 
   - name: Golang
     web_url: https://github.com/topics/go
@@ -62,6 +64,10 @@ topics:
   - name: Cryptocurrency
     web_url: https://github.com/topics/cryptocurrency
     image_url: https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bitcoin/bitcoin.png
+
+  - name: Blockchain
+    web_url: https://github.com/topics/blockchain
+    image_url: https://raw.githubusercontent.com/github/explore/66e4a32f59558ad7852fca3eee52b5838a5b3cc8/topics/blockchain/blockchain.png
 
   - name: Linux
     web_url: https://github.com/topics/linux
