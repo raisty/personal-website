@@ -90,25 +90,25 @@ github_sponsors:
 
 bitcoin:
   name: Bitcoin Address
-  profile_url_prefix: https://pay.btc.horse/#bitcoin:
+  profile_url_prefix: 'https://pay.btc.horse/#bitcoin:'
   icon_svg: '₿'
 
 litecoin:
   name: Litecoin Address
-  profile_url_prefix: https://pay.btc.horse/#litecoin:
+  profile_url_prefix: 'https://pay.btc.horse/#litecoin:'
   icon_svg: 'Ł'
 
 ethereum:
   name: Ethereum Address
-  profile_url_prefix: https://pay.btc.horse/#ethereum:
+  profile_url_prefix: 'https://pay.btc.horse/#ethereum:'
   icon_svg: 'Ξ'
 
 core:
   name: Core Address
-  profile_url_prefix: https://pay.btc.horse/#payto://XCE/
+  profile_url_prefix: 'https://pay.btc.horse/#payto://XCE/'
   icon_svg: '₡'
 
 pay:
   name: Payment Address
-  profile_url_prefix: https://pay.btc.horse/#payto://
+  profile_url_prefix: 'https://pay.btc.horse/#payto://'
   icon_svg: '¤'
